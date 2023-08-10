@@ -62,11 +62,7 @@ public class FileWordCountGUI extends JFrame implements ActionListener {
         setLayout(new FlowLayout());
         add(panel1);
         add(panel2);
-        //add(new JLabel("Enter file path: "));
-        //add(new JScrollPane(filePathField));
-        //add(countButton);
-        //add(resultLabel);
-        //add(uniqueWordsLabel);
+        
 
         setVisible(true);
       
